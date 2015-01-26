@@ -38,6 +38,7 @@
 		5AD662281A76312300CBF528 /* AACcessTTSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AACcessTTSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AD6622D1A76312300CBF528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AD6622E1A76312300CBF528 /* AACcessTTSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AACcessTTSTests.swift; sourceTree = "<group>"; };
+		5AD662381A76B0FE00CBF528 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		5AD662081A76312300CBF528 = {
 			isa = PBXGroup;
 			children = (
+				5AD662381A76B0FE00CBF528 /* MyPlayground.playground */,
 				5AD662131A76312300CBF528 /* AACcessTTS */,
 				5AD6622B1A76312300CBF528 /* AACcessTTSTests */,
 				5AD662121A76312300CBF528 /* Products */,
